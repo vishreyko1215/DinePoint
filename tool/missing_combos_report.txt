@@ -1,0 +1,204 @@
+Italian | Under ₹300 | Casual | Bannerghatta Road
+Italian | Under ₹300 | Fancy | Church Street
+Italian | ₹300 - ₹600 | Casual | Indiranagar
+Italian | ₹300 - ₹600 | Casual | Koramangala
+Italian | ₹300 - ₹600 | Casual | Jayanagar
+Italian | ₹300 - ₹600 | Fancy | Indiranagar
+Italian | ₹300 - ₹600 | Fancy | HSR Layout
+Italian | ₹300 - ₹600 | Fancy | Church Street
+Italian | ₹300 - ₹600 | Fancy | Bannerghatta Road
+Italian | ₹300 - ₹600 | Café | Indiranagar
+Italian | ₹300 - ₹600 | Café | Koramangala
+Italian | ₹300 - ₹600 | Café | HSR Layout
+Italian | ₹300 - ₹600 | Café | Jayanagar
+Italian | ₹300 - ₹600 | Café | Church Street
+Italian | ₹600+ | Casual | Jayanagar
+Italian | ₹600+ | Fancy | Whitefield
+Italian | ₹600+ | Fancy | Bannerghatta Road
+Italian | ₹600+ | Café | Whitefield
+Italian | ₹600+ | Family | Whitefield
+Italian | ₹600+ | Family | Church Street
+Italian | ₹600+ | Family | Bannerghatta Road
+Chinese | Under ₹300 | Casual | Bannerghatta Road
+Chinese | Under ₹300 | Fancy | Whitefield
+Chinese | Under ₹300 | Fancy | Koramangala
+Chinese | Under ₹300 | Fancy | Jayanagar
+Chinese | Under ₹300 | Café | HSR Layout
+Chinese | Under ₹300 | Café | Jayanagar
+Chinese | Under ₹300 | Café | Bannerghatta Road
+Chinese | Under ₹300 | Family | Whitefield
+Chinese | Under ₹300 | Family | HSR Layout
+Chinese | ₹300 - ₹600 | Casual | Whitefield
+Chinese | ₹300 - ₹600 | Casual | Church Street
+Chinese | ₹300 - ₹600 | Fancy | Whitefield
+Chinese | ₹300 - ₹600 | Fancy | Bannerghatta Road
+Chinese | ₹300 - ₹600 | Café | Indiranagar
+Chinese | ₹300 - ₹600 | Café | Whitefield
+Chinese | ₹300 - ₹600 | Café | Koramangala
+Chinese | ₹300 - ₹600 | Café | HSR Layout
+Chinese | ₹300 - ₹600 | Family | Whitefield
+Chinese | ₹300 - ₹600 | Family | Koramangala
+Chinese | ₹600+ | Casual | Koramangala
+Chinese | ₹600+ | Casual | Bannerghatta Road
+Chinese | ₹600+ | Fancy | Whitefield
+Chinese | ₹600+ | Fancy | HSR Layout
+Chinese | ₹600+ | Fancy | Jayanagar
+Chinese | ₹600+ | Café | Jayanagar
+Mexican | Under ₹300 | Casual | Koramangala
+Mexican | Under ₹300 | Casual | HSR Layout
+Mexican | Under ₹300 | Casual | Jayanagar
+Mexican | Under ₹300 | Casual | Church Street
+Mexican | Under ₹300 | Casual | Bannerghatta Road
+Mexican | Under ₹300 | Fancy | Whitefield
+Mexican | Under ₹300 | Fancy | Koramangala
+Mexican | Under ₹300 | Fancy | HSR Layout
+Mexican | Under ₹300 | Fancy | Jayanagar
+Mexican | Under ₹300 | Fancy | Church Street
+Mexican | Under ₹300 | Fancy | Bannerghatta Road
+Mexican | Under ₹300 | Café | Indiranagar
+Mexican | Under ₹300 | Café | Whitefield
+Mexican | Under ₹300 | Café | Koramangala
+Mexican | Under ₹300 | Café | HSR Layout
+Mexican | Under ₹300 | Café | Jayanagar
+Mexican | Under ₹300 | Café | Church Street
+Mexican | Under ₹300 | Café | Bannerghatta Road
+Mexican | Under ₹300 | Family | Koramangala
+Mexican | Under ₹300 | Family | Bannerghatta Road
+Mexican | ₹300 - ₹600 | Casual | Indiranagar
+Mexican | ₹300 - ₹600 | Casual | Whitefield
+Mexican | ₹300 - ₹600 | Casual | Koramangala
+Mexican | ₹300 - ₹600 | Casual | HSR Layout
+Mexican | ₹300 - ₹600 | Casual | Jayanagar
+Mexican | ₹300 - ₹600 | Casual | Church Street
+Mexican | ₹300 - ₹600 | Casual | Bannerghatta Road
+Mexican | ₹300 - ₹600 | Fancy | Jayanagar
+Mexican | ₹300 - ₹600 | Café | Whitefield
+Mexican | ₹300 - ₹600 | Café | Koramangala
+Mexican | ₹300 - ₹600 | Café | HSR Layout
+Mexican | ₹300 - ₹600 | Café | Jayanagar
+Mexican | ₹300 - ₹600 | Café | Church Street
+Mexican | ₹300 - ₹600 | Café | Bannerghatta Road
+Mexican | ₹300 - ₹600 | Family | Indiranagar
+Mexican | ₹300 - ₹600 | Family | Whitefield
+Mexican | ₹300 - ₹600 | Family | Koramangala
+Mexican | ₹300 - ₹600 | Family | HSR Layout
+Mexican | ₹300 - ₹600 | Family | Jayanagar
+Mexican | ₹300 - ₹600 | Family | Church Street
+Mexican | ₹300 - ₹600 | Family | Bannerghatta Road
+Mexican | ₹600+ | Casual | Indiranagar
+Mexican | ₹600+ | Casual | Whitefield
+Mexican | ₹600+ | Casual | Koramangala
+Mexican | ₹600+ | Casual | HSR Layout
+Mexican | ₹600+ | Casual | Jayanagar
+Mexican | ₹600+ | Casual | Church Street
+Mexican | ₹600+ | Casual | Bannerghatta Road
+Mexican | ₹600+ | Fancy | Indiranagar
+Mexican | ₹600+ | Fancy | Whitefield
+Mexican | ₹600+ | Fancy | Koramangala
+Mexican | ₹600+ | Fancy | HSR Layout
+Mexican | ₹600+ | Fancy | Jayanagar
+Mexican | ₹600+ | Fancy | Church Street
+Mexican | ₹600+ | Fancy | Bannerghatta Road
+Mexican | ₹600+ | Café | Indiranagar
+Mexican | ₹600+ | Café | Whitefield
+Mexican | ₹600+ | Café | Koramangala
+Mexican | ₹600+ | Café | HSR Layout
+Mexican | ₹600+ | Café | Jayanagar
+Mexican | ₹600+ | Café | Church Street
+Mexican | ₹600+ | Café | Bannerghatta Road
+Mexican | ₹600+ | Family | Indiranagar
+Mexican | ₹600+ | Family | Whitefield
+Mexican | ₹600+ | Family | Jayanagar
+American | Under ₹300 | Casual | Indiranagar
+American | Under ₹300 | Casual | Whitefield
+American | Under ₹300 | Casual | Koramangala
+American | Under ₹300 | Casual | Jayanagar
+American | Under ₹300 | Casual | Bannerghatta Road
+American | Under ₹300 | Fancy | HSR Layout
+American | Under ₹300 | Fancy | Jayanagar
+American | Under ₹300 | Fancy | Bannerghatta Road
+American | Under ₹300 | Café | Whitefield
+American | Under ₹300 | Family | Indiranagar
+American | Under ₹300 | Family | Whitefield
+American | Under ₹300 | Family | Koramangala
+American | ₹300 - ₹600 | Casual | Whitefield
+American | ₹300 - ₹600 | Casual | Koramangala
+American | ₹300 - ₹600 | Casual | HSR Layout
+American | ₹300 - ₹600 | Casual | Jayanagar
+American | ₹300 - ₹600 | Casual | Church Street
+American | ₹300 - ₹600 | Casual | Bannerghatta Road
+American | ₹300 - ₹600 | Café | Indiranagar
+American | ₹300 - ₹600 | Café | Jayanagar
+American | ₹300 - ₹600 | Family | Bannerghatta Road
+American | ₹600+ | Fancy | Whitefield
+American | ₹600+ | Fancy | HSR Layout
+American | ₹600+ | Fancy | Jayanagar
+American | ₹600+ | Family | Whitefield
+American | ₹600+ | Family | Koramangala
+American | ₹600+ | Family | HSR Layout
+American | ₹600+ | Family | Jayanagar
+American | ₹600+ | Family | Bannerghatta Road
+Dessert | Under ₹300 | Casual | Indiranagar
+Dessert | Under ₹300 | Casual | Whitefield
+Dessert | Under ₹300 | Casual | Koramangala
+Dessert | Under ₹300 | Casual | HSR Layout
+Dessert | Under ₹300 | Casual | Church Street
+Dessert | Under ₹300 | Casual | Bannerghatta Road
+Dessert | Under ₹300 | Fancy | Indiranagar
+Dessert | Under ₹300 | Fancy | Whitefield
+Dessert | Under ₹300 | Fancy | Koramangala
+Dessert | Under ₹300 | Fancy | HSR Layout
+Dessert | Under ₹300 | Fancy | Jayanagar
+Dessert | Under ₹300 | Fancy | Church Street
+Dessert | Under ₹300 | Fancy | Bannerghatta Road
+Dessert | ₹300 - ₹600 | Casual | Indiranagar
+Dessert | ₹300 - ₹600 | Casual | Whitefield
+Dessert | ₹300 - ₹600 | Casual | Koramangala
+Dessert | ₹300 - ₹600 | Casual | HSR Layout
+Dessert | ₹300 - ₹600 | Casual | Jayanagar
+Dessert | ₹300 - ₹600 | Casual | Church Street
+Dessert | ₹300 - ₹600 | Casual | Bannerghatta Road
+Dessert | ₹300 - ₹600 | Fancy | Indiranagar
+Dessert | ₹300 - ₹600 | Fancy | Whitefield
+Dessert | ₹300 - ₹600 | Fancy | Koramangala
+Dessert | ₹300 - ₹600 | Fancy | HSR Layout
+Dessert | ₹300 - ₹600 | Fancy | Jayanagar
+Dessert | ₹300 - ₹600 | Fancy | Church Street
+Dessert | ₹300 - ₹600 | Fancy | Bannerghatta Road
+Dessert | ₹300 - ₹600 | Café | Indiranagar
+Dessert | ₹300 - ₹600 | Café | Whitefield
+Dessert | ₹300 - ₹600 | Café | Koramangala
+Dessert | ₹300 - ₹600 | Café | HSR Layout
+Dessert | ₹300 - ₹600 | Café | Jayanagar
+Dessert | ₹300 - ₹600 | Café | Church Street
+Dessert | ₹300 - ₹600 | Café | Bannerghatta Road
+Dessert | ₹300 - ₹600 | Family | Indiranagar
+Dessert | ₹300 - ₹600 | Family | Whitefield
+Dessert | ₹300 - ₹600 | Family | Koramangala
+Dessert | ₹300 - ₹600 | Family | HSR Layout
+Dessert | ₹300 - ₹600 | Family | Jayanagar
+Dessert | ₹300 - ₹600 | Family | Church Street
+Dessert | ₹300 - ₹600 | Family | Bannerghatta Road
+Dessert | ₹600+ | Casual | Indiranagar
+Dessert | ₹600+ | Casual | Whitefield
+Dessert | ₹600+ | Casual | Koramangala
+Dessert | ₹600+ | Casual | HSR Layout
+Dessert | ₹600+ | Casual | Jayanagar
+Dessert | ₹600+ | Casual | Church Street
+Dessert | ₹600+ | Casual | Bannerghatta Road
+Dessert | ₹600+ | Fancy | Indiranagar
+Dessert | ₹600+ | Fancy | Bannerghatta Road
+Dessert | ₹600+ | Café | Indiranagar
+Dessert | ₹600+ | Café | Whitefield
+Dessert | ₹600+ | Café | Koramangala
+Dessert | ₹600+ | Café | HSR Layout
+Dessert | ₹600+ | Café | Jayanagar
+Dessert | ₹600+ | Café | Church Street
+Dessert | ₹600+ | Café | Bannerghatta Road
+Dessert | ₹600+ | Family | Indiranagar
+Dessert | ₹600+ | Family | Whitefield
+Dessert | ₹600+ | Family | Koramangala
+Dessert | ₹600+ | Family | HSR Layout
+Dessert | ₹600+ | Family | Jayanagar
+Dessert | ₹600+ | Family | Church Street
+Dessert | ₹600+ | Family | Bannerghatta Road
